@@ -1,5 +1,3 @@
-# Czechitas: Digitální Akademie - Hackaton
-
 ## Instalace
 `npm install`
 

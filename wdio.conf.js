@@ -3,7 +3,7 @@ import { ReportAggregator, HtmlReporter} from '@rpii/wdio-html-reporter' ;
 exports.config = {
     runner: 'local',
     specs: [
-        './test/specs/**/clickIn.e2e.js'
+        './clickIn.e2e.js'
     ],
     exclude: [],
     maxInstances: 10,
